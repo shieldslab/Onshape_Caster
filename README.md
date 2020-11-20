@@ -24,3 +24,20 @@ Start with a 80 mm circle, extruded 8 mm thick.  Then a 40 mm x 5 mm rectangle, 
 
 https://youtu.be/NdAtfCPoKEY
 
+## Part 4 - Wheel
+
+Revolve the profile below.
+
+<img src="/media/wheel1.png" width="300px"> <img src="/media/wheel2.png" width="300px">
+
+https://youtu.be/KHRxqRzRQ20
+
+# Part 5 - Tire
+
+The tire is 110 mm in diameter.  The sides are angled in 10 degrees.  8 mm fillets on the sides.
+
+<img src="/media/tire.png" width="300px">
+
+https://youtu.be/wOd3NyO2rvU
+
+
