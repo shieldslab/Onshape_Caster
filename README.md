@@ -61,3 +61,11 @@ Assemble the final caster.  Insert your part studios into the Assembly tab, grou
 <img src="/media/caster.png" width="300px">
 
 https://youtu.be/vbZEfb1hzUc
+
+# Caster Hardware
+
+Use Onshape standard content to drop in some nuts and bolts.
+
+<img src="/media/hardware.png" width="300px">
+
+https://youtu.be/jEKW827gO4w
