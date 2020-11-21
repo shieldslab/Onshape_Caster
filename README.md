@@ -56,7 +56,7 @@ https://youtu.be/73z0euF11NY
 
 # Caster Assembly
 
-Assemble the finals caster.  Drop in your part studios, group them, and then use one mate connector to assemble each group.  Finally, copy the washer and the collar.
+Assemble the final caster.  Insert your part studios into the Assembly tab, group them, and then use Revolute mates to assemble each group.  Finally, copy the washer and the collar and assemble.
 
 <img src="/media/caster.png" width="300px">
 
