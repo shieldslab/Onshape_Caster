@@ -53,3 +53,11 @@ Finally, make a bearing in the fork Part Studio.  Just one feature, a cylinder. 
 <img src="/media/parts6-9a.png" width="300px"> <img src="/media/parts6-9b.png" width="300px">
 
 https://youtu.be/73z0euF11NY
+
+# Caster Assembly
+
+Assemble the finals caster.  Drop in your part studios, group them, and then use one mate connector to assemble each group.  Finally, copy the washer and the collar.
+
+<img src="/media/caster.png" width="300px">
+
+https://youtu.be/vbZEfb1hzUc
